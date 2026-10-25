@@ -2,14 +2,15 @@
 
 **A little science. A smaller step. A day that fits.**
 
-An independent educational comic about sleep, movement, focus, stress and connection. Created with AI-assisted writing and original AI-generated illustrations. Alex is fictional.
+An original illustrated short story, The Tuesday Alex Nearly Missed, with optional science notes and practical tools for sleep, movement, focus, stress and connection. Created with AI-assisted writing and original AI-generated illustrations. Alex is fictional.
 
 ## Read it
 
 The website is deployed through GitHub Pages from the `docs` directory. Source files are in `dist` during local development; the published `docs` copy is identical.
 
 - Choose one of five starting points with scientific sources beside the claims.
-- Follow Alex through an ordinary day, without a perfect transformation.
+- Read a seven-scene story with dialogue, a relationship, a setback and an ending that returns to its opening moment.
+- Open research notes beside each relevant scene, with complete sources and limits.
 - Try a flexible four-week plan with a browser-local tracker.
 - Read the illustrated PDF and evidence audit in `docs/downloads`.
 
@@ -30,3 +31,7 @@ The page is buildless HTML, CSS and JavaScript. Serve the `docs` folder with any
 ## Reuse
 
 No blanket open-source or Creative Commons licence is granted. See [NOTICE.md](NOTICE.md) and [RIGHTS.md](RIGHTS.md). Third-party references and font licences remain separate.
+
+## Story edition
+
+The current webpage leads with the original short story. [STORY.md](STORY.md) contains its manuscript. [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md) records the critique and revision choices. The earlier 35-page PDF remains a longer companion and is labelled accordingly. No bestseller status or future sales claim is made.
