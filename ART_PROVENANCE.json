@@ -1,0 +1,152 @@
+{
+  "edition": "One Small Shift educational comic",
+  "date": "2026-10-25",
+  "art_creation": "AI-generated original fictional scenes using only project-generated character references; no named artist imitation, brand or existing character requested.",
+  "scope": "Record of provenance, not legal clearance.",
+  "assets": [
+    {
+      "file": "docs/assets/alex-0.webp",
+      "sha256": "c6a0653e151abcf25224fb1452010a848fa9eb9cfe879953c8ef9c63ba492d5f",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-1.webp",
+      "sha256": "46f5c25e55d82b47d27d877d9ecbbf73cf7f14a508a509e2c8f5914441b59636",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-10.webp",
+      "sha256": "fa42888f026fdc4009d0477252b4c3e7b12c40f7029d5e54954040b5ea363f5b",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-11.webp",
+      "sha256": "ade612fba42a6e7cfac3171213141cb47d86bac2378feab34c0216c9459bc091",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-12.webp",
+      "sha256": "304ac7b8f91b4ca261d0f2be165f7ee6868870213ee0bab922df016893a55ff3",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-13.webp",
+      "sha256": "113747889c66be61496129190a888ca7fc5ff14607ad1b382c182232ad56fa40",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-14.webp",
+      "sha256": "bdfa975c67a06b4f679513a6b4ec6cca107f4d5289ce76cc937790e7011da957",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-15.webp",
+      "sha256": "9f5e428a21c9484aec18fd6d790567c550f48dfed86d9f1b49263752e15e80ab",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-16.webp",
+      "sha256": "a0b528eef1ffe3ea7335e92539c79e1ec6868e434e6c70ae48393939f04f23c2",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-17.webp",
+      "sha256": "5f13a372f5a5a0ef62e06276dd829f3bd44c38ae32037c8f19a7cd73de2a3b83",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-18.webp",
+      "sha256": "9f6d04743cc7726d7612a9eeba935bc893448edf59518f8897595801c8c017c7",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-19.webp",
+      "sha256": "95c7e1d6b89221a826c10bde705cb44834b0cee753d40a2d8b3964e85d08ad38",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-2.webp",
+      "sha256": "1ede28a9af7cdc08a3ebb0cf4373fd2457e5b6b36625bd5d6780e3d04a7864b9",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-20.webp",
+      "sha256": "683d3cd04c52440913dbd74ae5ab81760a3744255cfbd3bbc1b702d823af311e",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-21.webp",
+      "sha256": "dcb28e2cf5256b503a039fdb6f7d399c1cdde6ed981c9d1f3eb891d0968ee5f5",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-22.webp",
+      "sha256": "047d4557298ed426692f285b6cf78e2b8609d8f451f0862b623822072b75e757",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-23.webp",
+      "sha256": "65bc40cbad9b15a4c35dc7312d04ed3b293eb237fd73448ccb7a02bb6f0e9521",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-3.webp",
+      "sha256": "1f7f4ff12a482592224f820677cf7a8110d1e23be5ee73eb0359b67a8ec6150e",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-4.webp",
+      "sha256": "babd508ba8a0e1246ff33115a3715db471fe08f402f70650dd3d1a73d2e01aa0",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-5.webp",
+      "sha256": "ae38e075b77fdd7f01ccc1febdc11c1df46c79a32f24b2828e7c74d4c2d18f17",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-6.webp",
+      "sha256": "423a5bb193fdda65c954a313947b5896b9b06e25632d4b28bb196141933d8f0e",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-7.webp",
+      "sha256": "ef844cc6c64826e29fc126881b482f1e6efb2658db327519ce078facb5341326",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-8.webp",
+      "sha256": "bad10c65b379034747ca11ac196fa1b40b8aa1727a54565ce7feafd82811baae",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    },
+    {
+      "file": "docs/assets/alex-9.webp",
+      "sha256": "4420aa385d337c3868d66855830521a7710a855fdedaa600fba5581336c1cdcb",
+      "origin": "Project-generated Alex comic sheets",
+      "third_party_stock": false
+    }
+  ]
+}
